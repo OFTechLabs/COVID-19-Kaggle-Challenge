@@ -1,0 +1,6 @@
+paths:
+  data: ..\..\data
+  raw_data: ..\..\data\raw
+  processed_data: ..\..\data\processed
+
+
